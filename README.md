@@ -1,7 +1,11 @@
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![Redux](https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux)
+![React](https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2-764ABC?logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
 # 🌱 Planty Places – Houseplants Online Shopping Application
 
@@ -69,8 +73,7 @@ This project was built using the following technologies:
 - **JavaScript (ES6+)** – Core programming language
 - **HTML5 & CSS3** – Structure and styling, including responsive design
 - **ESLint** – Code linting (`eslint.config.js`)
-- **gh-pages** – Deployment to GitHub Pages
-- **Git & GitHub** – Version control and repository hosting
+- **Git & GitHub** – Version control
 
 ---
 
