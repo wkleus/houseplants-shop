@@ -14,15 +14,15 @@ This project is the final frontend assignment for the IBM course **Developing Fr
 
 ### Landing Page
 
-<img src="docs/screenshots/landing-page.png" alt="Landing Page" width="600">
+<img src="docs/screenshots/landing-page.png" alt="Landing Page" >
 
 ### Product Listing Page
 
-<img src="docs/screenshots/product-page.png" alt="Product Listing Page" width="600">
+<img src="docs/screenshots/products.png" alt="Product Listing Page" >
 
 ### Cart Page
 
-<img src="docs/screenshots/cart-page.png" alt="Cart Page" width="600">
+<img src="docs/screenshots/shopping-cart.png" alt="Cart Page" >
 
 ---
 
